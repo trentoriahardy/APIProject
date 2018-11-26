@@ -1,0 +1,38 @@
+body{
+    background: lightseagreen;
+    background-color: black;
+    border: 20px; color: red;
+    font-size: 40px;
+    background-image: url(albumcovers.jpg);
+    font-family: inherit;
+}
+
+input {
+    height: 30px;
+    width: 300px;
+    background-color: black;
+    border: 20px; color: white;
+    
+  }
+
+  button {
+    width: 300px;
+    font-family: inherit;
+    font-size: 25px;
+    background-color: black;
+    border: 20px; color: white;
+  }
+
+  p{
+    background-color: black;
+    border: 20px; color: white;
+    font-size: 25px
+
+  }
+
+  h1{
+    background-color: black;
+    border: 20px; color: white;
+
+  }
+  
